@@ -1,0 +1,22 @@
+
+˜
+java:S2259"OA "NullPointerException" could be thrown; "cocheSeleccionado" is nullable here.(ÏÉÈøÿÿÿÿ8ø¯»øò1J$0d5206c0-9500-455e-b613-99e5b015e222
+€
+java:S1117/">Rename "rutaCoche1" which hides the field declared at line 38.(–Û€g8ü¯»øò1J$52f58deb-9ece-49e0-9667-148d3cd1f870
+†
+java:S11170">Rename "rutaCoche2" which hides the field declared at line 39.(¼íø˜úÿÿÿÿ8ü¯»øò1J$b6231d80-6f20-4226-bf90-5b57c3f03829
+s	java:S106"+Replace this use of System.out by a logger.(ÏÉÈøÿÿÿÿ8‚°»øò1J$e89d29ac-873f-40e9-8d30-520556e4a72e
+~
+java:S1128"6Remove this unused import 'javafx.animation.Timeline'.(˜‰ë÷øÿÿÿÿ8ŒçËøò1J$aa365679-4beb-486e-8196-8112d180001a
+y
+java:S1128"6Remove this unused import 'javafx.event.EventHandler'.(º»û˜8çËøò1J$aa08e898-52d0-413a-870a-fdfc3812718a
+ƒ
+java:S1128	";Remove this unused import 'javafx.scene.control.ButtonBar'.(Ú·ŠÓÿÿÿÿÿ8çËøò1J$29d8480d-ac3e-4fb5-9914-2f3e367ddfd0
+x
+java:S1128"5Remove this unused import 'javafx.scene.image.Image'.(‰¿½Ç8çËøò1J$bc354a99-8ddb-4e7f-b6aa-f619bd76d81b
+‚
+java:S1128":Remove this unused import 'javafx.scene.input.MouseEvent'.(˜¬‹æÿÿÿÿÿ8çËøò1J$d0e2b3b7-6fbe-4be4-bed9-24faeb050cda
+}
+java:S1128"5Remove this unused import 'javafx.scene.layout.Pane'.(êÄƒÄşÿÿÿÿ8çËøò1J$fffa6ebc-97a9-4182-8b22-5ba4890ee5f5
+w
+java:S1128"/Remove this unused import 'javafx.stage.Stage'.(æÄ¸²úÿÿÿÿ8çËøò1J$72c7d09f-bcc8-416f-a9d2-3582dbf14591
